@@ -154,12 +154,6 @@ percussor/
 
 ---
 
-## aviso
-
-use apenas em sistemas que voce possui ou tem autorizacao explicita pra testar. o autor nao se responsabiliza pelo uso indevido desta ferramenta.
-
----
-
 ## referencias
 
 - [Password Spraying — MITRE ATT&CK T1110.003](https://attack.mitre.org/techniques/T1110/003/)
